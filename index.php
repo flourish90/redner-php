@@ -1,2 +1,4 @@
-wd  v  gwb
-test
+<?php
+
+echo 'patrick';
+?>
