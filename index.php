@@ -1,4 +1,4 @@
 <?php
 
-echo 'patrick';
+echo 'patrick2';
 ?>
